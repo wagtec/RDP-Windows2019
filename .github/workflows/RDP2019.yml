@@ -1,4 +1,4 @@
-name: RDP2019.yml
+name: CI
 
 on: workflow_dispatch
 
