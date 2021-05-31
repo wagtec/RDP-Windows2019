@@ -1,4 +1,4 @@
-name: RDP
+name: RDP2019.yml
 
 on: workflow_dispatch
 
